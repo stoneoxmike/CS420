@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/rmsem.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+getopt.h
+-
+semaphore.h
+-
+sem_name.h
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/sem_name.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/sem_name.h
+

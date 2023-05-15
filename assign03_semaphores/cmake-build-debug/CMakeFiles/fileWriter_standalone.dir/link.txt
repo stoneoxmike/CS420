@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/fileWriter_standalone.dir/utils.c.o CMakeFiles/fileWriter_standalone.dir/verify.c.o CMakeFiles/fileWriter_standalone.dir/fileWriter.c.o  -o ../fileWriter_standalone  -lpthread 

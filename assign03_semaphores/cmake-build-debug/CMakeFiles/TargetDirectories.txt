@@ -1,0 +1,7 @@
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/fileWriterTestSetup.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/fileWriter_standalone.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/rmsem.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/fileWriter.dir
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/CMakeFiles/main.dir

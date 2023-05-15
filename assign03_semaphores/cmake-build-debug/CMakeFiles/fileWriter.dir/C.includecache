@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+semaphore.h
+-
+pthread.h
+-
+utils.h
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/utils.h
+verify.h
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/verify.h
+sem_name.h
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/sem_name.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/sem_name.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/utils.h
+
+/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/verify.h
+

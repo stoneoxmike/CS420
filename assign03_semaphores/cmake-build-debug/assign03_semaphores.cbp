@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assign03_semaphores"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileWriterTestSetup">
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileWriterTestSetup"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileWriter_standalone">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter_standalone" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFILEWRITER_STANDALONE_MODE=1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileWriter_standalone"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileWriter_standalone/fast">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter_standalone" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DFILEWRITER_STANDALONE_MODE=1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileWriter_standalone/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rmsem">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/rmsem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 rmsem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rmsem/fast">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/rmsem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 rmsem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileWriter">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileWriter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileWriter/fast">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileWriter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/fileWriter.c">
+			<Option target="fileWriter_standalone"/>
+			<Option target="fileWriter"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/rmsem.c">
+			<Option target="rmsem"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/sem_name.h">
+			<Option target="fileWriter_standalone"/>
+			<Option target="rmsem"/>
+			<Option target="fileWriter"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/utils.c">
+			<Option target="fileWriter_standalone"/>
+			<Option target="fileWriter"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/utils.h">
+			<Option target="fileWriter_standalone"/>
+			<Option target="fileWriter"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/verify.c">
+			<Option target="fileWriter_standalone"/>
+			<Option target="fileWriter"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/verify.h">
+			<Option target="fileWriter_standalone"/>
+			<Option target="fileWriter"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/stone/OneDrive/Documents/CS420/assign03_semaphores/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
